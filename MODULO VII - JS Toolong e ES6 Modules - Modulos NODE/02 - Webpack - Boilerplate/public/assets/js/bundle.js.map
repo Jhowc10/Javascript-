@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAAA,KAAK,CAAC,WAAW,CAAC,C","sources":["webpack://javascript-toolong-e-es6-modules---modulos/./src/index.js"],"sourcesContent":["alert('Olá Mundo');"],"names":["alert"],"sourceRoot":""}

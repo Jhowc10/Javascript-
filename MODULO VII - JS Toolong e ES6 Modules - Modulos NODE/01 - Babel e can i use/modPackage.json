@@ -1,0 +1,23 @@
+// Para modificar o BABEL para atualizar sozinho, lá em "teste" colocaremos uma " , " no final e acresentaremos o código
+// "babel": babel nome do arquivo -o nome do arquivo bundle --presets=@babel/env -w
+
+// ******  "babel": "babel ./main.js -o ./bundle.js --presents=@babel/env -w"   ******
+
+// Depois digite o código a seguir no terminal para ele ficar sempre compilando:
+
+// ******npm run babel ******
+
+
+{
+    "name": "udemy",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "babel": "babel ./main.js -o ./bundle.js --presents=@babel/env -w"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
