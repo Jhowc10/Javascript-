@@ -1,12 +1,51 @@
-No modulo I temos como implantar o JS no HTML, variáveis, alert, confirm e prompt, numeros, objeto math, array simles, funções e objetos.
+## Modulo I
+    * Como implantar o JS no HTML - inline, interno e externo.
+    * Variáveis
+    * Alert
+    * Confirm e prompt
+    * Numeros
+    * Objeto math
+    * Array simles
+    * Funções e objetos.
 
-O modulo II e votado em lógica da programação, operadores de comparação e lógicos, avaliação de curto-circuito, if if-else if-if else - else, operação ternária, objeto date, switch-case, atribuição via destruturação (array e objeto), for, for in, for of, while e do while, setInterval e setTimeout.
+## Modulo II 
+#### E votado em lógica da programação:
+    * Operadores de comparação e lógicos 
+    * Avaliação de curto-circuito
+    * Estrutura de decisão e repetição 
+    * Operação ternária
+    * Objeto date
+    * Atribuição via destruturação (array e objeto)
+    * SetInterval e SetTimeout.
 
-O modulo III se aprofunda em funções - Parametros, retorno, escopo lexo, callback, imediatas, factory functions, construtoras e geradoras.
+## Modulo III 
+### Se aprofunda em funções  
+    * Parametros
+    * Retorno
+    * Escopo lexo
+    * Callback
+    * Imediatas
+    * Factory functions
+    * Funções construtoras e geradoras.
 
-O modulo IV se aprofunda em arrays - Método splice, concatenação, filter, map, reduce e foreach
+## Modulo IV 
+#### Se aprofunda em arrays 
+    * Método splice
+    * Concatenação
+    * Filter
+    * Map
+    * Reduce 
+    * Foreach
 
-O modulo V se aprofunda em objeto - Object.defineProperty() e Object.defineProperties(), Getters e Setters, metodos, prototypes, herança, poliforfismo e object map.
+## Modulo V 
+#### Se aprofunda em objeto 
+    * Object.defineProperty() e Object.defineProperties()
+    * Getters e Setters
+    * Metodos
+    * Prototypes
+    * Herança
+    * Poliforfismo
+    * Object map.
 
 O modulo VI se aprofunda em programação Orientada a Objeto - Criação de classes, getters e setters, herança, metodos de instancia e estáticos.
 
