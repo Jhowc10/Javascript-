@@ -47,8 +47,19 @@
     * Poliforfismo
     * Object map.
 
-O modulo VI se aprofunda em programação Orientada a Objeto - Criação de classes, getters e setters, herança, metodos de instancia e estáticos.
+## Modulo VI 
+#### Se aprofunda em programação Orientada a Objeto 
+    * Criação de classes
+    * Getters e setters
+    * Herança
+    * Metodos de instancia e estáticos.
 
-O modulo VII se aprofunda em Promises - Promises, metodos, async, XMLHttpRequest e Fettch.
+## Modulo VII
+#### Se aprofunda em Promises   
+    * Promises
+    * Metodos
+    * Async
+    * XMLHttpRequest 
+    * Fettch.
 
 
